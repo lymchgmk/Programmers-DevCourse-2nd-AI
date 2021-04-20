@@ -3,6 +3,20 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\Week 1\Day 1\Practice\(12) 중위표현 수식을 후위표현 수식으로.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Week 1\Day 1\Practice\(13) 후위표현 수식 계산.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Week 1\Day 1\Practice\lv1_나머지 한 점.py">
           <value>
             <Attribute>
