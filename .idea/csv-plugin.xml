@@ -45,6 +45,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Week 1\Day 2\Practice\lv2_가장 큰 수.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Week 1\Day 2\Practice\lv2_기능개발.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Week 1\Day 5\lv1_대중소 괄호 짝 맞추기.py">
           <value>
             <Attribute>
@@ -73,10 +87,45 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Week 1\Day 5\lv2_문자열 압축 사본.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Week 1\Day 5\lv2_배상 비용 최소화 사본.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Week 1\Day 5\lv2_사전순 부분문자열.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Week 1\Day 5\lv2_스킬트리.py">
           <value>
             <Attribute>
               <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Week 1\Day 5\lv2_주사위 게임.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Week 1\Day 5\lv2_짝지어 제거하기.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
