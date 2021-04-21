@@ -59,6 +59,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Week 1\Day 4\Practice\여행경로.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Week 1\Day 5\lv1_대중소 괄호 짝 맞추기.py">
           <value>
             <Attribute>
@@ -123,6 +130,55 @@
           </value>
         </entry>
         <entry key="\Week 1\Day 5\lv2_짝지어 제거하기.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Week 1\Day 5\lv3_2 x n 타일링.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Week 1\Day 5\lv3_FloodFill.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Week 1\Day 5\lv3_N-Queen.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Week 1\Day 5\lv3_게임아이템.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Week 1\Day 5\lv3_방문 길이.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Week 1\Day 5\lv3_배달.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Week 1\Day 5\lv3_빙고.py">
           <value>
             <Attribute>
               <option name="separator" value="," />
