@@ -4,18 +4,24 @@ from collections import deque
 
 def solution(healths, items):
     healths.sort()
-    items = [(*item, index) for index, item in enumerate(items, start=1)]
-    ATTACK, HP, IDX = 0, 1, 2
-    items = deque(sorted(items, key=lambda x: x[HP]))
-    
+    # idx, 포인트, 체력감소 를 1 부터 enumerate
+    enum_items = [(idx, *item) for idx, item in enumerate(items, start=1)]
+    IDX, POINT, HP_MINUS = 0, 1, 2
+    # 감소체력 오름, 포인트 내림, idx 오름차순 정렬
+    enum_items.sort(key=lambda x: (x[HP_MINUS], -x[POINT], x[IDX]))
+    deq_enum_items = deque(enum_items)
+
     answer = []
-    cand = []
+    hq = []
     for health in healths:
-        while items and health - items[0][HP] >= 100:
-            item = items.popleft()
-            heapq.heappush(cand, (-item[ATTACK], item[IDX]))
-        if cand:
-            answer.append(heapq.heappop(cand)[1])
+        while deq_enum_items and health - deq_enum_items[0][HP_MINUS] >= 100:
+            item = deq_enum_items.popleft()
+            # -포인트, idx
+            heapq.heappush(hq, (-item[POINT], item[IDX]))
+        if hq:
+            # idx 삽입
+            answer.append(heapq.heappop(hq)[1])
+
     return sorted(answer)
 
 
