@@ -157,6 +157,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Week 1\Day 5\lv3_가장 긴 팰린드롬.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Week 1\Day 5\lv3_게임아이템.py">
           <value>
             <Attribute>
@@ -179,6 +186,13 @@
           </value>
         </entry>
         <entry key="\Week 1\Day 5\lv3_빙고.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Week 1\Day 5\lv4_버스 여행.py">
           <value>
             <Attribute>
               <option name="separator" value="," />
