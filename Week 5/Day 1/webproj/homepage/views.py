@@ -2,4 +2,5 @@ from django.shortcuts import render, HttpResponse
 
 # Create your views here.
 def index(request):
-    return HttpResponse("Hello World!")
+    nums = [1, 2, 3, 4, 5]
+    return render(request, 'index.html', {"my_list": nums})
