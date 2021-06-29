@@ -4,6 +4,8 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Week 4/Day 2/kdt-ai-aws" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Week 4/Day 4/kdt-ai-aws" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week 9/오프라인 수업/Scene-Classification-Dataset" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week 9/오프라인 수업/Scene-Classification-Dataset/Scene-Classification-Dataset" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/programmers_kdt_II" vcs="Git" />
   </component>
 </project>
